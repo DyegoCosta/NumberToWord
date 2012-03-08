@@ -1,0 +1,9 @@
+*.suo
+*.user
+*.nupkg
+_Resharper.*
+*StyleCop*
+bin
+obj
+*.log
+TestResults
