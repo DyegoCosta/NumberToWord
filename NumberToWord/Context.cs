@@ -8,7 +8,6 @@
         public Context(int input)
         {
             Input = input;
-            Output = string.Empty;
         }        
 
         public int Input { get; set; }
