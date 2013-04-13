@@ -1,8 +1,5 @@
 ﻿namespace NumberToWord
 {
-    /// <summary>
-    /// The 'Context' class
-    /// </summary>
     public class Context
     {
         public Context(int input)
